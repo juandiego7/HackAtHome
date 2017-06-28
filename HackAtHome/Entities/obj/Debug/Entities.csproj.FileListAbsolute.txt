@@ -1,0 +1,10 @@
+C:\DiplomadoXamarin\HackAtHome\Entities\bin\Debug\Entities.dll
+C:\DiplomadoXamarin\HackAtHome\Entities\bin\Debug\Entities.pdb
+C:\DiplomadoXamarin\HackAtHome\Entities\bin\Debug\Entities.Entities.apk
+C:\DiplomadoXamarin\HackAtHome\Entities\bin\Debug\Entities.Entities-Signed.apk
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\Entities.dll
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\Entities.pdb
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\android\bin\Entities.Entities.apk
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\res\values\strings.xml
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\R.cs.flag
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\uploadflags.txt
